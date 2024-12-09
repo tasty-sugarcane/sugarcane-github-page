@@ -1,2 +1,2 @@
 # sugarcane-github-page
-Sugarcange github page
+Sugarcane github page
